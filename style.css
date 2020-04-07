@@ -9,7 +9,13 @@ h1 {
 img {
     float: left;
     width: 30%;
-    margin: 22px;
+    margin: 1.66%;
+
+    /* 1.66% + 30% + 1.66% + 1.66% + 30% +
+        1.66% + 1.66% + 30% + 1.66%*/
+
+    /* margin-left + img + margin-right + margin-left +
+        img + margin-right + margin-left + img + margin-right*/
 }
 
 hr {
